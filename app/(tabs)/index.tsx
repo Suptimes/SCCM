@@ -312,6 +312,6 @@ const styles = StyleSheet.create({
   },
   clearAllText: {
     ...typography.body,
-    color: colors.textLight,
+    color: colors.text,
   },
 });

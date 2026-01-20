@@ -199,7 +199,7 @@ export default function TimeTracker() {
           <Button
             variant="secondary"
             onPress={handleClearAll}
-            leftIcon={<Ionicons name="refresh" size={18} color={colors.text} />}
+            leftIcon={<Ionicons name="refresh" size={18} color={colors.textLight} />}
             style={styles.clearAllButton}
           >
             <Text style={styles.clearAllText}>Clear All</Text>
